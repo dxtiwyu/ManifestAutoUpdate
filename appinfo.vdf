@@ -1,0 +1,280 @@
+"appid" "3168260"
+"common"
+{
+	"name" "Blackthorn Arena: Reforged"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "995845a6821ecb3983841c905050b179c29b41fc"
+	"clienttga" "2b7a243f6dc4738bd49feca2b0ba234e179f8c12"
+	"clienticon" "9381c8a30cf41c7ea2468f9e4e98ced64d5c2118"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "黑荆棘角斗场：重铸版"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "d3674834a717313212b114fe239bc3f9958bb873/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "32.37986270022884"
+			"height_pct" "95.21276386051055"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "a669f0078636cc32c1440532fcecf994b57723ca/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "a669f0078636cc32c1440532fcecf994b57723ca/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "f0a8289d66349ae9fd818d350362cb2b4b372cb8/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "f0a8289d66349ae9fd818d350362cb2b4b372cb8/library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "32.37986270022884"
+				"height_pct" "95.21276386051055"
+			}
+			"image"
+			{
+				"english" "106293a8bd55c3a526ce67f9bf29b5aa9142cb18/logo.png"
+			}
+			"image2x"
+			{
+				"english" "106293a8bd55c3a526ce67f9bf29b5aa9142cb18/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "c4cd26cc5aed6183e1a6b5a639059a8688e6d9c2/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "c4cd26cc5aed6183e1a6b5a639059a8688e6d9c2/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729006119"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PersonaeGame Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Light Up Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Light Up Games Bundle"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730567265"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3168260"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "9"
+		"2" "1684"
+		"3" "12472"
+		"4" "4172"
+		"5" "1720"
+		"6" "1702"
+		"7" "9204"
+		"8" "4328"
+		"9" "4474"
+		"10" "7332"
+		"11" "3813"
+		"12" "4604"
+		"13" "6426"
+		"14" "17305"
+		"15" "1741"
+		"16" "6948"
+		"17" "4191"
+		"18" "5851"
+		"19" "4791"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "PersonaeGame Studio"
+	"publisher" "Light Up Games"
+	"homepage" "https://lightup.games/"
+}
+"config"
+{
+	"installdir" "Blackthorn Arena Reforged"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BlackthornArena Reforged.exe"
+		}
+	}
+}
+"depots"
+{
+	"3168261"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1837819160090869799"
+				"size" "27666902582"
+				"download" "23869549072"
+			}
+			"betatest"
+			{
+				"gid" "1837819160090869799"
+				"size" "27666902582"
+				"download" "23869549072"
+			}
+		}
+	}
+	"3168262"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16289756"
+			"timeupdated" "1730737975"
+		}
+		"betatest"
+		{
+			"buildid" "16289756"
+			"description" "this is for beta test"
+			"timeupdated" "1730737982"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26044177"
+"_sha" "4b3c661eff1ad02a38250b2a8d6a2c71cb90ff7e"
+"_size" "4707"
